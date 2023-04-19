@@ -1,5 +1,5 @@
 # Computing Fundamentals 1 & 2
-C++ projects made during my first programming class.
+Class projects made during my first CS classes! Simple C++ code that I learned when I first started programming.
 
 Topics covered: 
 
